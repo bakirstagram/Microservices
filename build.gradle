@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'com.micro-example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}

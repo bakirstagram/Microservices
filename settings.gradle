@@ -1,0 +1,6 @@
+rootProject.name = 'Microservices-Spring'
+
+includeBuild 'eureka-server' // тем самым, когда будет происходить общий build, этот build так-же затронет компиляцию внутреннего модуля (eureka-server)
+includeBuild 'eureka-client'
+includeBuild 'api-gateway'
+
