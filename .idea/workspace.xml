@@ -193,7 +193,7 @@
       <workItem from="1675398589661" duration="2634000" />
       <workItem from="1675504878917" duration="10433000" />
       <workItem from="1675590200823" duration="1176000" />
-      <workItem from="1675592818424" duration="2785000" />
+      <workItem from="1675592818424" duration="3593000" />
     </task>
     <task id="LOCAL-00001" summary="eureka-server">
       <created>1675366044876</created>
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675596701663</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adding second client">
+      <created>1675597686036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675597686036</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

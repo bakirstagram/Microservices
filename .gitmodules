@@ -1,0 +1,3 @@
+[submodule "eureka-client-2"]
+	path = eureka-client-2
+	url = ./eureka-client-2
