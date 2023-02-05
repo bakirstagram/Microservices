@@ -8,11 +8,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 public class EurekaClientApplication {
 
-    /*
-     * При указании аннотаций @EnableDiscoveryClient тоже отработает,
-     *  т.к. Eureka является Discovery сервисом, но вот в
-     * случае если использовать любой другой Dicovery сервис и
-     * использовать аннотацию @EnableEurekaClient, так уже не прокатит*/
     public static void main(String[] args) {
         SpringApplication.run(EurekaClientApplication.class, args);
     }
